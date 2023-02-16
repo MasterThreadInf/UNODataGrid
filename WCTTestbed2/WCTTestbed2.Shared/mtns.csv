@@ -1,0 +1,7 @@
+1,Rajesh Kumar,Admin,true,true,true,false
+2,Don Maer,Read & Write,true,true,false,false
+3,Kollega,Read Only,true,false,false,false
+4,Julius,Write Only,false,true,false,false
+5,Liu,None,false,false,false,true
+6,Jim,Write & Modify,false,true,true,false
+7,Kim,Modify only,false,false,true,false
